@@ -1,3 +1,6 @@
+# VU_SmartCities Energy Project
+The demo Jupyter Notebook can be seen here [Smart Cities Course Examples](https://github.com/AvisekNaug/VU_SmartCities/blob/master/Smart%20Cities%20Course%20Examples.ipynb)
+
 ## Clone the repository
 ```
 git clone https://github.com/AvisekNaug/VU_SmartCities.git
