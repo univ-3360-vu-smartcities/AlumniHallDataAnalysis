@@ -35,4 +35,4 @@ pip install requirements.txt
 ```
 jupyter --notebook --port 8200
 ```
-### Now type 127.0.0.1:8200 in your browser and interact with the data
+### Now you can type <127.0.0.1:8200>in your browser and interact with the notebook "Smart Cities Course Examples.ipynb"
