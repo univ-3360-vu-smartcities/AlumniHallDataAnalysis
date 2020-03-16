@@ -1,5 +1,5 @@
 # VU Smart Cities Course: Alumni Hall Energy Project
-The demo Jupyter Notebook can be seen here [Alumni Hall Data Analysis Demo](https://github.com/AvisekNaug/VU_SmartCities/blob/master/Smart%20Cities%20Course%20Examples.ipynb)
+The demo Jupyter Notebook can be seen here [Alumni Hall Data Analysis Demo](https://github.com/AvisekNaug/VU_SmartCities/blob/master/Alumni%20Hall%20Data%20Analysis%20Demo.ipynb)
 
 ## Clone the repository
 ```
