@@ -1,11 +1,11 @@
 # VU Smart Cities Course: Alumni Hall Energy Project
-The demo Jupyter Notebook can be seen here [Alumni Hall Data Analysis Demo](https://github.com/AvisekNaug/VU_SmartCities/blob/master/Alumni%20Hall%20Data%20Analysis%20Demo.ipynb)
+The demo Jupyter Notebook can be seen here [Alumni Hall Data Analysis Demo](https://github.com/univ-3360-vu-smartcities/AlumniHallDataAnalysis/blob/master/Alumni%20Hall%20Data%20Analysis%20Demo.ipynb)
 
 # Steps to run the notebook
 
 ## 1 Clone the repository
 ```
-git clone https://github.com/AvisekNaug/VU_SmartCities.git
+git clone https://github.com/univ-3360-vu-smartcities/AlumniHallDataAnalysis.git
 ```
 
 ## 2 Create the data directory
@@ -16,13 +16,13 @@ create a folder called "data" inside the VU_SmartCities folder
 2. occupancyStatus.csv 
 
 
-## 4 Create a python environment at the terminal using
+## 4 Create a virtual environment at the terminal using
 
 ```
 python36 -m venv energy_tutorial
 ```
 
-## 5 Activate the environment
+## 5 Activate the virtual environment
 
 ### On Linux or MacOS
 ```
