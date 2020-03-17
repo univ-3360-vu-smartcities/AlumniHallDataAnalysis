@@ -30,7 +30,7 @@ source energy_tutorial/bin/activate
 ```
 ### On Windows
 ```
-source energy_tutorial\Scripts\activate
+energy_tutorial\Scripts\activate
 ```
 ## 6 Install requirements using
 ```
