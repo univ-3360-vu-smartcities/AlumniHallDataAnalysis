@@ -34,7 +34,7 @@ energy_tutorial\Scripts\activate
 ```
 ## 6 Install requirements using
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 7 Open notebook: Launch the notebook using
