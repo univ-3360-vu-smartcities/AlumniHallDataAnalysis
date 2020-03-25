@@ -384,7 +384,7 @@ def dataframeplot(df, lazy = True, style = '*', ylabel : str = 'Y-axis', xlabel 
 		plt.rcParams["figure.figsize"] = (width, height)
 		_, ax = plt.subplots(nrows = df.shape[1], squeeze=False)
 		for i,j in zip(df.columns,range(df.shape[1])):
-			df.plot(y=[i],ax=ax[j][0],style=['b--'], legend=legend)
+			df.plot(y=[i],ax=ax[j][0],style=[style], legend=legend)
 		ax[j][0].set_xlabel(xlabel)
 		ax[j][0].set_ylabel(ylabel)
 	else:
